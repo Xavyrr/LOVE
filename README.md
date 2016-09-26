@@ -2,7 +2,7 @@
 
 ###About:
 
-LOVE is an Undertale homebrew currently being written for the Nintendo 3DS system with use of <a href="https://github.com/VideahGams/LovePotion">LövePotion</a>, an unofficial implementation of the Löve API for the 3DS by <a href="https://github.com/VideahGams">VideahGams</a>.
+LOVE is an Undertale homebrew currently being written for the Nintendo 3DS system with use of <a href="https://github.com/VideahGams/LovePotion">LövePotion</a>, an unofficial implementation of the Löve API for the 3DS by <a href="https://github.com/VideahGams">VideahGams</a>. The intent of this homebrew is to provide an Undertale related experience without touching the actual game, since depending on how you played it, you might not want to delete your save file. However this is not meant to replace Undertale in any way, and you should purchase the original game.
 ___
 
 ###Licensing:
