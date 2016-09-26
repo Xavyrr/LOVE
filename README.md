@@ -28,7 +28,7 @@ Undertale is licensed under the <a href="https://creativecommons.org/licenses/by
 
 > Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
 
-###Credit & Copywrite:
+###Credit & Copyright:
 - The "Undertale" name, graphics, audio, characters, setting from the game are © Toby Fox. Thanks for making such a wonderful game.
 
 - <a href="https://www.behance.net/gallery/31378523/Monster-Friend-Undertale-Logo-Font">Monster Friend</a>, which is the font used for LOVE's logo, was made by <a href="https://www.behance.net/JapanYoshi">Harry Wakamatsu</a>.
