@@ -1,6 +1,11 @@
 ![#LOVE](../master/meta/banner.png)
 
+###About:
+
 LOVE is an Undertale homebrew currently being written for the Nintendo 3DS system with use of <a href="https://github.com/VideahGams/LovePotion">LövePotion</a>, an unofficial implementation of the Löve API for the 3DS by <a href="https://github.com/VideahGams">VideahGams</a>.
+___
+
+###Licensing:
 
 LOVE is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.
 
@@ -28,6 +33,8 @@ Undertale is licensed under the <a href="https://creativecommons.org/licenses/by
 
 > Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
 
+___
+
 ###Credit & Copyright:
 - The "Undertale" name, graphics, audio, characters, setting from the game are © Toby Fox. Thanks for making such a wonderful game.
 
@@ -36,4 +43,12 @@ Undertale is licensed under the <a href="https://creativecommons.org/licenses/by
 - All code and any addition graphics that may be added to this project are by me. 
 - This project is not affiliated in any way with Toby Fox, please support the offical release: <a href="https://undertale.com/">[LINK]</a>
 
+___
+
+###Building LOVE:
+LOVE isn't able to be build on it's own, you have to add it to LovePotion and then compile that with the [game folder](../master/game) in the root of LovePotion, as well as replace the makefile and meta files with the ones found in this project.
+
+___
+
+###Other Links:
 GBAtemp Forum Thread: <a href="https://gbatemp.net/threads/wip-love-a-visual-homebrew-for-fallen-humans.420076/page-3#post-6706194">[LINK]</a>
