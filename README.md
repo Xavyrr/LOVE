@@ -1,4 +1,5 @@
-![#LOVE](../meta/logo.png "LOVE Logo")
+![#LOVE](../master/meta/banner.png)
+
 LOVE is an Undertale homebrew currently being written for the Nintendo 3DS system with use of <a href="https://github.com/VideahGams/LovePotion">LövePotion</a>, an unofficial implementation of the Löve API for the 3DS by <a href="https://github.com/VideahGams">VideahGams</a>.
 
 LOVE is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.
