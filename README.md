@@ -30,9 +30,6 @@ Undertale is licensed under the <a href="https://creativecommons.org/licenses/by
 > - The author's moral rights;
 
 > - Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
-
-> Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
-
 ___
 
 ###Credit & Copyright:
@@ -40,15 +37,16 @@ ___
 
 - <a href="https://www.behance.net/gallery/31378523/Monster-Friend-Undertale-Logo-Font">Monster Friend</a>, which is the font used for LOVE's logo, was made by <a href="https://www.behance.net/JapanYoshi">Harry Wakamatsu</a>.
 
-- All code and any addition graphics that may be added to this project are by me. 
+- All code and any additional graphics that may be added to this project are by me.
 - This project is not affiliated in any way with Toby Fox, please support the offical release: <a href="https://undertale.com/">[LINK]</a>
 
 ___
 
 ###Building LOVE:
-LOVE isn't able to be build on it's own, you have to add it to LovePotion and then compile that with the [game folder](../master/game) in the root of LovePotion, as well as replace the makefile and meta files with the ones found in this project.
+You cannot build LOVE on your own, you have to add it to LovePotion and then compile that with the [game folder](../master/game) in the root of LovePotion, as well as replace the makefile and meta files with the ones found in this project.
 
 ___
 
 ###Other Links:
 GBAtemp Forum Thread: <a href="https://gbatemp.net/threads/wip-love-a-visual-homebrew-for-fallen-humans.420076/page-3#post-6706194">[LINK]</a>
+Old GitHub Repo: <a href="https://github.com/Xavyrr/LOVE-OLD-">[LINK]</a>
